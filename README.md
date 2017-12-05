@@ -8,4 +8,4 @@ How to run:
 $ python json_to_csv_converter.py yelp_academic_dataset.json # Creates yelp_academic_dataset.csv
 ```
 
-![alt text](https://gfycat.com/gifs/detail/OpulentAgitatedHare)
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/OpulentAgitatedHare' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
