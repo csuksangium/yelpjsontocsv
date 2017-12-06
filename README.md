@@ -8,4 +8,4 @@ How to run:
 $ python json_to_csv_converter.py yelp_academic_dataset.json # Creates yelp_academic_dataset.csv
 ```
 
-![Output sample](https://github.com/csuksangium/yelpjsontocsv/blob/master/phoodablegif.gif)&nbsp;&nbsp;![Output sample]
+![Output sample](https://github.com/csuksangium/yelpjsontocsv/blob/master/phoodablegif.gif)
