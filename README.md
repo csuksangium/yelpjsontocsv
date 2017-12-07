@@ -8,5 +8,5 @@ How to run:
 $ python json_to_csv_converter.py yelp_academic_dataset.json # Creates yelp_academic_dataset.csv
 ```
 <p align="center">
-  ![Output sample](https://github.com/csuksangium/yelpjsontocsv/blob/master/phoodablegif.gif)
+  <img src="https://github.com/csuksangium/yelpjsontocsv/blob/master/phoodablegif.gif">
 </p>
